@@ -5,4 +5,6 @@
 </picture>
 
 ---
-![counter](https://count.getloli.com/get/@Hatomoyo2721?theme=rule34)
+<div style="text-align:center;">
+  <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=rule34" alt="counter" />
+</div>
