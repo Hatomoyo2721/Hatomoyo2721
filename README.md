@@ -1,6 +1,4 @@
-<p align="center">
-  # Hello there, I'm Hatomoyo
-</p>
+<h1 align="center">Hello there, I'm Hatomoyo</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
