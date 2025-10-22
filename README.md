@@ -2,7 +2,7 @@
 
 - 📚 Curious mind with endless interest in tech, learning and growing
 - 💻 Enjoy programming and exploring new things   
-- 🇻🇳 Vietnamese citizen, currently learning Cybersecurity. Love tech, games, and creating content!  
+- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, currently learning Cybersecurity. Love tech, games, and creating content!
 - 🗣️ Languages: Vietnamese (native), English (intermediate), Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
 
 ---
