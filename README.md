@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, I'm Hatomoyo</h1>
 
-- 📘 Curious mind with endless interest in tech, learning and growing
+- 📚 Curious mind with endless interest in tech, learning and growing
 - 💻 Enjoy programming and exploring new things   
 - 🇻🇳 Vietnamese citizen, currently learning Cybersecurity. Love tech, games, and creating content!  
-- 🗣️ Languages: 🇻🇳 Vietnamese (native), 🇬🇧 English (intermediate), 🇯🇵 Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
+- 🗣️ Languages: Vietnamese (native), English (intermediate), Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
 
 ---
 <picture>
