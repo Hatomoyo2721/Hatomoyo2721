@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, I'm Hatomoyo</h1>
 
-<list>
-  <item>aa</item>
-  <item>bb</item>
-</list>
+- 📘 Curious mind with endless interest in tech, learning and growing
+- 💻 Enjoy programming and exploring new things   
+- 🇻🇳 Vietnamese citizen, currently learning Cybersecurity. Love tech, games, and creating content!  
+- 🗣️ Languages: 🇻🇳 Vietnamese (native), 🇬🇧 English (intermediate), 🇯🇵 Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
 
 ---
 <picture>
