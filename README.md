@@ -7,7 +7,13 @@
 - 🌐 Languages: Vietnamese (native), English (understand but speak...maybe), Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
 
 <br>
-<h3>🌙 Status</h2>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h3>🌙 Status</h2>
+    </summary>
+  </ul>
+</div>
 <img src="https://img.shields.io/badge/🟡%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
 
 
