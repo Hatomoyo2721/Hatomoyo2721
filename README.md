@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Hatomoyo</h1>
+<h1 align="center">Hi chat 🐧</h1>
 
 
 - 📚 Curious mind with endless interest in tech, learning and growing
