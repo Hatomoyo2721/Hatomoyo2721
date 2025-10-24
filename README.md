@@ -6,7 +6,9 @@
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning Cybersecurity. Love tech, games, and creating content!
 - 🌐 Languages: Vietnamese (native), English (understand but speak...maybe), Japanese (learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
 
-<br><h2>🌙 Status</h2><br><img src="https://img.shields.io/badge/🟡%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
+<br>
+<h3>🌙 Status</h2><br>
+<img src="https://img.shields.io/badge/🟡%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
 
 
 ---
