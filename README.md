@@ -10,7 +10,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h3>🌙 Status</h2>
+      <h2>🌙 Status</h2>
     </summary>
   </ul>
 </div>
