@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 🐧</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/half-derp/half-derp/master/assets/images/peep.gif" width="60" />
+</p>
+
 * 📚 Curious mind with endless interest in tech, learning and growing
 * 💻 Enjoy programming and exploring new things.
 * <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning **Cybersecurity**.
@@ -45,3 +49,7 @@
   <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=gelbooru" alt="counter" />
 </p>
 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&theme=manga" alt="hatomoyo2721 top langs" />
+</p>
