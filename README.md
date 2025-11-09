@@ -36,8 +36,4 @@
 
 
 ---
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hatomoyo2721&show_icons=true&locale=en&theme=tokyonight" alt="hatomoyo2721 github stats" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&locale=en&theme=tokyonight" alt="hatomoyo2721 top langs" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatomoyo2721)](https://github.com/anuraghazra/github-readme-stats)
