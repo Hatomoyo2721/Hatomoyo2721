@@ -5,9 +5,10 @@
 * <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning **Cybersecurity**.
 * 🎮 Love tech, games, and creating content!
 * 🌐 **Languages:**
-    * 🇻🇳 Vietnamese
-    * 🇬🇧 English
-    * 🇯🇵 Japanese (Learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
+    * Vietnamese
+    * English
+    * Japanese (Learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
+
 
 <br>
 <div id="toc">
@@ -29,16 +30,6 @@
 
 
 ---
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hatomoyo2721&show_icons=true&locale=en&theme=tokyonight" alt="hatomoyo2721 github stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&locale=en&theme=tokyonight" alt="hatomoyo2721 top langs" />
-</p>
-
-
----
 <p align="center">
   <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=gelbooru" alt="counter" />
 </p>
-
