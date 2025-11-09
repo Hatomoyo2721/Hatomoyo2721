@@ -33,3 +33,11 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=gelbooru" alt="counter" />
 </p>
+
+
+---
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hatomoyo2721&show_icons=true&locale=en&theme=tokyonight" alt="hatomoyo2721 github stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&locale=en&theme=tokyonight" alt="hatomoyo2721 top langs" />
+</p>
