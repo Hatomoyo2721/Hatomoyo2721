@@ -4,7 +4,7 @@
 * 💻 Enjoy programming and exploring new things.
 * <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning **Cybersecurity**.
 * 🎮 Love tech, games, and creating content!
-* 🌐 Languages: Vietnamese, English, Japanese (Learning but kinda lazy ‎꜀( ꜆-ࡇ-)꜆)
+* 🌐 Languages: Vietnamese, English, Japanese (Learning)
 
 <br>
 <div id="toc">
