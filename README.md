@@ -10,11 +10,11 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>🌙 Status</h2>
+      <h2>🟢 Status</h2>
     </summary>
   </ul>
 </div>
-<img src="https://img.shields.io/badge/🟡%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
+<img src="https://img.shields.io/badge/🌙%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
 
 
 ---
