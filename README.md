@@ -30,6 +30,7 @@
   <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=gelbooru" alt="counter" />
 </p>
 
+<br>
 <h2>📈 GitHub Stats</h2>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&theme=tokyonight" alt="hatomoyo2721 top langs" />
