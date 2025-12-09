@@ -30,6 +30,4 @@
 
 <br>
 <h2>📈 GitHub Stats</h2>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatomoyo2721&layout=compact&theme=tokyonight" alt="hatomoyo2721 top langs" />
-</p>
+![Hatomoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatomoyo&show_icons=true&theme=tokyonight)
