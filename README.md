@@ -30,4 +30,4 @@
 
 <br>
 <h2>📈 GitHub Stats</h2>
-![Hatomoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatomoyo&show_icons=true&theme=tokyonight)
+![Hatomoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatomoyo2721&show_icons=true&theme=tokyonight)
