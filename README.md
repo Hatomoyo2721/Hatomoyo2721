@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 🐧</h1>
+<h1 align="center">Hi there</h1>
 
 * 📚 Curious mind with endless interest in tech, learning and growing
-* 💻 Enjoy programming and exploring new things.
-* <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning **Cybersecurity**.
-* 🎮 Love tech, games, and creating content!
+* 💻 Enjoy programming and exploring new things
+* <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/vn.svg" width="20"/> Vietnamese citizen, learning **Cybersecurity**
+* 🍿 Love playing games and watching content
 * 🌐 Languages: Vietnamese, English, Japanese (Learning)
 
 <br>
