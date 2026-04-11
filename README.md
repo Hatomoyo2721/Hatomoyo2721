@@ -22,13 +22,13 @@
   <img alt="Breakout Game" src="images/breakout.svg" />
 </picture>
 
-```---
+---
 <p align="center">
-  <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou">
+  <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou+absurdres+highres+1girl+looking_at_viewer">
 </p>
 <sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a> (Random when refresh)</sub>
 <br>
-```
+
 ---
 <p align="center">
   <img src="https://count.getloli.com/get/@Hatomoyo2721?theme=gelbooru" alt="counter" />
