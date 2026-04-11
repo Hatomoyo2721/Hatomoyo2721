@@ -15,7 +15,6 @@
   </ul>
 </div>
 <img src="https://img.shields.io/badge/🌙%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
-<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
 <br>
 
 ---
@@ -24,7 +23,7 @@
 </picture>
 
 ---
-<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?tags=koseki_bijou">
+<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=file_url&tags=koseki_bijou">
 <sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
 <br>
 
