@@ -23,8 +23,10 @@
 </picture>
 
 ---
-<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou">
-<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
+<p align="center">
+  <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou">
+</p>
+<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a> (Random when refresh)</sub>
 <br>
 
 ---
