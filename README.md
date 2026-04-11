@@ -25,7 +25,7 @@
 
 ---
 <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?aspect_ratio=1.77&tags=koseki_bijou+gigi_murin">
-<sub>Made by My friend - [Foxeiz](https://github.com/FoxeiZ)</sub>
+<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
 <br>
 
 ---
