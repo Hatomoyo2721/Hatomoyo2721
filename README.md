@@ -23,7 +23,7 @@
 </picture>
 
 ---
-<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=preview_url&tags=koseki_bijou">
+<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou">
 <sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
 <br>
 
