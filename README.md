@@ -24,7 +24,7 @@
 </picture>
 
 ---
-<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?tags=koseki_bijou+gigi_murin">
+<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?tags=koseki_bijou">
 <sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
 <br>
 
