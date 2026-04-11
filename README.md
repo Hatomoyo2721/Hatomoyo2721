@@ -24,7 +24,7 @@
 
 ---
 <p align="center">
-  <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou+1girl+looking_at_viewer+rating:general">
+  <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou+1girl+highres+looking_at_viewer+rating:general">
 </p>
 <sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a> (Random when refresh)</sub>
 <br>
