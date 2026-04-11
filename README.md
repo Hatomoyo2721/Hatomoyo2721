@@ -15,13 +15,18 @@
   </ul>
 </div>
 <img src="https://img.shields.io/badge/🌙%20Away-Mode-yellow?style=for-the-badge&labelColor=2d2d2d" alt="status"/>
-
+<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a></sub>
+<br>
 
 ---
 <picture>
   <img alt="Breakout Game" src="images/breakout.svg" />
 </picture>
 
+---
+<img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?aspect_ratio=1.77&tags=koseki_bijou+gigi_murin">
+<sub>Made by My friend - [Foxeiz](https://github.com/FoxeiZ)</sub>
+<br>
 
 ---
 <p align="center">
