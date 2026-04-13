@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://kemonomimi.foxeiz2004.workers.dev/gelbooru?prefer_size=sample_url&tags=koseki_bijou+1girl+highres+monochrome+portrait+rating:general">
 </p>
-<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a> (Random when refresh)</sub>
+<sub>Made by My friend - <a href="https://github.com/FoxeiZ">Foxeiz</a> (Random when refresh - specific tags so only this image)</sub>
 <br>
 
 ---
